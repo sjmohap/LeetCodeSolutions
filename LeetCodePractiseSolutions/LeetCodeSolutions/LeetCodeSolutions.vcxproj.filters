@@ -21,6 +21,9 @@
     <ClInclude Include="105.ConstructTree_INorder_POSTorder.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="106.TreeFromInOrderPostOrder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="282.ExpressionsAddOperators.cpp">
@@ -33,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="105.ConstructTree_INorder_POSTorder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="106.TreeFromInOrderPostOrder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

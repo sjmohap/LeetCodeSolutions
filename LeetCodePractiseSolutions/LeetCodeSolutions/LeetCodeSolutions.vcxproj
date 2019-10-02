@@ -152,10 +152,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="105.ConstructTree_INorder_POSTorder.h" />
+    <ClInclude Include="106.TreeFromInOrderPostOrder.h" />
     <ClInclude Include="headers.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="105.ConstructTree_INorder_POSTorder.cpp" />
+    <ClCompile Include="106.TreeFromInOrderPostOrder.cpp" />
     <ClCompile Include="282.ExpressionsAddOperators.cpp" />
     <ClCompile Include="21.MergeSortedLists.cpp" />
     <ClCompile Include="88.MergeSortedArray.cpp" />
